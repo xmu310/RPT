@@ -2,7 +2,7 @@
 
 This repository contains a Python implementation of a faint edge detection algorithm for noisy images based on the principles described in the CVPR 2016 paper "Fast Detection of Curved Edges at Low SNR" by Ofir et al.
 
-The original MATLAB implementation and paper can be found at [https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ofir_Fast_Detection_of_CVPR_2016_paper.html](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ofir_Fast_Detection_of_CVPR_2016_paper.html).
+The original paper can be found at [https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ofir_Fast_Detection_of_CVPR_2016_paper.html](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ofir_Fast_Detection_of_CVPR_2016_paper.html).
 
 The code repository is available at [https://github.com/NatiOfir/FaintCurvedEdgeDetection](https://github.com/NatiOfir/FaintCurvedEdgeDetection).
 
