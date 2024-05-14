@@ -45,11 +45,12 @@ This project relies on the following Python libraries:
 - Scikit-image
 - Matplotlib
 - H5py
+- Opencv-python
 
 You can install these dependencies using pip:
 
 ```
-pip install numpy scikit-image matplotlib h5py
+pip install numpy scikit-image matplotlib h5py opencv-python
 ```
 
 These libraries are necessary for running the provided scripts and performing various image processing tasks.
