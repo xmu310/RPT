@@ -65,8 +65,7 @@ python3 demo.py Images/Sines.png
 ```
 
 You will see the following result:
-
-<img src="example.png" alt="example figure" width="200"/>
+![example.png](example.png)
 
 ### Acknowledgments
 
