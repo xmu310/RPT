@@ -1,6 +1,6 @@
 ## Faint Curved Edge Detection (RPT version)
 
-This repository is for image processing course project, and contains a Python implementation of a faint edge detection algorithm for noisy images based on the principles described in the CVPR 2016 paper "Fast Detection of Curved Edges at Low SNR" by Ofir et al.
+This repository is for image processing course project, and contains a Python implementation of a faint edge detection algorithm for noisy images based on the principles described in the CVPR 2016 paper "Fast Detection of Curved Edges at Low SNR" by Ofir et al, and we also show the comparison results with other edge detection algorithms.
 
 The original paper can be found at [https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ofir_Fast_Detection_of_CVPR_2016_paper.html](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ofir_Fast_Detection_of_CVPR_2016_paper.html).
 
@@ -16,6 +16,7 @@ The provided Python code offers a simplified version of the original MATLAB code
 - Implementation based on the CVPR 2016 paper
 - Python code for ease of use and understanding
 - Simplified compared to the original MATLAB code
+- Comparison with other edge detection algorithms.
 
 ### Usage
 
@@ -54,6 +55,18 @@ pip install numpy scikit-image matplotlib h5py opencv-python
 ```
 
 These libraries are necessary for running the provided scripts and performing various image processing tasks.
+
+### Example
+
+Run the following command:
+
+```
+python3 demo.py Images/Sines.png
+```
+
+You will see the following result:
+
+<img src="example.png" alt="example figure" width="200"/>
 
 ### Acknowledgments
 
